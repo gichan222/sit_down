@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-### 개발환경
+### 개발환경
 
 - JAVA 17
 - IDE : INTELIliJ
@@ -18,11 +18,12 @@
 - Database : MySql
 - ORM : JPA
 
- ### 프론트엔드 주소
+### 프론트엔드 주소
 
 https://github.com/abichan99/soApplied2
 
- ### 사용자 UI
+
+### 사용자 UI
 
 ---
 ![Untitled](https://github.com/gichan222/sit_down/assets/139845008/8a5db12f-c461-422f-8f90-af5b70010704)
