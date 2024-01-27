@@ -23,7 +23,7 @@
 https://github.com/abichan99/soApplied2
 
 
-### 사용자 UI
+### 사용자 UI
 
 ---
 ![Untitled](https://github.com/gichan222/sit_down/assets/139845008/8a5db12f-c461-422f-8f90-af5b70010704)
