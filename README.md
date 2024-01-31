@@ -18,6 +18,9 @@
 - Database : MySql
 - ORM : JPA
 
+### 개발참여율
+- 23%
+
 ### 프론트엔드 주소
 
 https://github.com/abichan99/soApplied2
